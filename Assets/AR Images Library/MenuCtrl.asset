@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MenuCtrl
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4641315741657467934
+  m_GuidHigh: 14056054374227237270
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4940213516729067238
+      m_GuidHigh: 520110019440640441
+    m_SerializedTextureGuid:
+      m_GuidLow: 9976845739916948223
+      m_GuidHigh: 14872421721076297931
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: glasses1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5164830229675524978
+      m_GuidHigh: 15159797705558736790
+    m_SerializedTextureGuid:
+      m_GuidLow: 9823512120268971586
+      m_GuidHigh: 4437075895386327304
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: glasses2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4858513809014090969
+      m_GuidHigh: 7152083491261711261
+    m_SerializedTextureGuid:
+      m_GuidLow: 12859051216010074713
+      m_GuidHigh: 6693520912264485705
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: stpatrickhat
+    m_Texture: {fileID: 0}
