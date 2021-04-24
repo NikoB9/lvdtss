@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -345,7 +345,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6116333485425955356, guid: 19360da65c4bb1a419d1e771282b6ae9, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6116333485425955356, guid: 19360da65c4bb1a419d1e771282b6ae9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -610,7 +610,7 @@ RectTransform:
   - {fileID: 1791983702}
   - {fileID: 1245343043}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -697,11 +697,15 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 4049ebcb023018e42a90ed890dcafc84, type: 3}
   - {fileID: 21300000, guid: 034c5f5165f1486409ffe41b3a6fddd8, type: 3}
   - {fileID: 21300000, guid: de507661f19e9d14498c270231ddea85, type: 3}
+  - {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   listOfObjects:
   - {fileID: 1918184682637980274, guid: 45a0557152e5b70409c946a4b8254c53, type: 3}
   - {fileID: 5993875404478540383, guid: 35c4a7736babf3747bfb78db9162360c, type: 3}
   - {fileID: 4917159702892204564, guid: 2d1d162941aecc848a39eea6d717591f, type: 3}
-  selected: 000000
+  - {fileID: 6324486194452242304, guid: cd15614b14e4fda4dbb150deb358a3f9, type: 3}
+  - {fileID: 7478744676899651085, guid: aa4f863adf9c5b244bc7918b860b89b6, type: 3}
+  selected: 0000000000
   arFace: {fileID: 1577749883}
   arSessionOrigin: {fileID: 6861209578571954365, guid: 16077d3e3139bb948847bfcd1da82b1a, type: 3}
   index: 0
@@ -738,6 +742,8 @@ MonoBehaviour:
   - {fileID: 1918184682637980274, guid: 45a0557152e5b70409c946a4b8254c53, type: 3}
   - {fileID: 5993875404478540383, guid: 35c4a7736babf3747bfb78db9162360c, type: 3}
   - {fileID: 4917159702892204564, guid: 2d1d162941aecc848a39eea6d717591f, type: 3}
+  - {fileID: 6324486194452242304, guid: cd15614b14e4fda4dbb150deb358a3f9, type: 3}
+  - {fileID: 7478744676899651085, guid: aa4f863adf9c5b244bc7918b860b89b6, type: 3}
 --- !u!114 &1114040587
 MonoBehaviour:
   m_ObjectHideFlags: 0
