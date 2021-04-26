@@ -3,7 +3,77 @@ guid: 77b31eebbdf572547b55c8ad02039b58
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CyclinderMat
+    second: {fileID: 2100000, guid: a4d2d233837c89b4495bdd35e918f179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ekstras2Mat
+    second: {fileID: 2100000, guid: 05373d74d4d665244af341f2c4a06174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extras1Mat
+    second: {fileID: 2100000, guid: 05373d74d4d665244af341f2c4a06174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hat1Mat
+    second: {fileID: 2100000, guid: 60a268093aae89f478b523dd26ebdd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope1Mat
+    second: {fileID: 2100000, guid: 75dd86e6ef16d1542b35b8655070bea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SKULL1Mat
+    second: {fileID: 2100000, guid: 05373d74d4d665244af341f2c4a06174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SKULL1SG
+    second: {fileID: 2100000, guid: a4d2d233837c89b4495bdd35e918f179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strap1Mat
+    second: {fileID: 2100000, guid: a4d2d233837c89b4495bdd35e918f179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface1SG
+    second: {fileID: 2100000, guid: 60a268093aae89f478b523dd26ebdd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface3SG
+    second: {fileID: 2100000, guid: a4d2d233837c89b4495bdd35e918f179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface4SG
+    second: {fileID: 2100000, guid: 60a268093aae89f478b523dd26ebdd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6SG
+    second: {fileID: 2100000, guid: 60a268093aae89f478b523dd26ebdd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface7SG
+    second: {fileID: 2100000, guid: 60a268093aae89f478b523dd26ebdd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface8SG
+    second: {fileID: 2100000, guid: 60a268093aae89f478b523dd26ebdd22, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

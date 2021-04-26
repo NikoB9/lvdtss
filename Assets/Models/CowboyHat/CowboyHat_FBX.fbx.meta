@@ -3,7 +3,37 @@ guid: bd78224c718126247b782d74e9e05b10
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cyclnder
+    second: {fileID: 2100000, guid: a4d2d233837c89b4495bdd35e918f179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extras
+    second: {fileID: 2100000, guid: 05373d74d4d665244af341f2c4a06174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hat
+    second: {fileID: 2100000, guid: 60a268093aae89f478b523dd26ebdd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope
+    second: {fileID: 2100000, guid: 75dd86e6ef16d1542b35b8655070bea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skul
+    second: {fileID: 2100000, guid: 05373d74d4d665244af341f2c4a06174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strap
+    second: {fileID: 2100000, guid: a4d2d233837c89b4495bdd35e918f179, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
