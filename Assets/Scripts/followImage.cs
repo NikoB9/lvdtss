@@ -146,9 +146,10 @@ public class followImage : MonoBehaviour
             if (selectedPrefab.name == "stpatrickhat")
             {
                 selectedPrefab.transform.Rotate(0, 0, 90.0f * Time.deltaTime, Space.Self);
-
+                
                 if (selectedPrefab.transform.rotation.z < 0)
                 {
+                    selectedPrefab.transform.eulerAngles = new Vector3(-90f, 0f, 0f);
                     objSelect = false;
                     sa.selectObj();
                 }
@@ -161,11 +162,26 @@ public class followImage : MonoBehaviour
             {
                 selectedPrefab.transform.Rotate(0, 90.0f * Time.deltaTime, 0, Space.Self);
 
-                if (selectedPrefab.transform.rotation.y < 0)
+                if(selectedPrefab.name == "CowboyHat_OBJ" || selectedPrefab.name == "pair_earrings")
                 {
-                    objSelect = false;
-                    sa.selectObj();
+                    if (selectedPrefab.transform.rotation.y < -0.5)
+                    {
+                        selectedPrefab.transform.eulerAngles = new Vector3(0f,180f,0f);
+                        objSelect = false;
+                        sa.selectObj();
+                    }
                 }
+                else
+                {
+                    if (selectedPrefab.transform.rotation.y < 0)
+                    {
+                        selectedPrefab.transform.eulerAngles = new Vector3(0f, 0f, 0f);
+                        selectedPrefab.transform.Rotate(0, 0, 0, Space.Self);
+                        objSelect = false;
+                        sa.selectObj();
+                    }
+                }
+                
             }
 
 
