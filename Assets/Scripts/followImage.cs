@@ -33,9 +33,23 @@ public class followImage : MonoBehaviour
         foreach (GameObject prefab in placeablePrefabs)
         {
             GameObject newPrefab = Instantiate(prefab, Vector3.zero, Quaternion.identity);
+
             if (prefab.name == "stpatrickhat") newPrefab.transform.Rotate(-90.0f, 0.0f, 0.0f, Space.Self);
-            newPrefab.name = prefab.name;
-            spawnedPrefabs.Add(prefab.name, newPrefab);
+
+            if (prefab.name == "CowboyHat_OBJ") newPrefab.transform.Rotate(0.0f, 180.0f, 0.0f, Space.Self);
+
+            if (prefab.name == "earrings_left_cata")
+            {
+                newPrefab.name = "pair_earrings";
+                newPrefab.transform.Rotate(0.0f, 180.0f, 0.0f, Space.Self);
+                spawnedPrefabs.Add("pair_earrings", newPrefab);
+            }
+            else
+            {
+                newPrefab.name = prefab.name;
+                spawnedPrefabs.Add(prefab.name, newPrefab);
+            }
+            
             //on désactive les objets pour le moment
             newPrefab.SetActive(false);
         }
@@ -87,6 +101,8 @@ public class followImage : MonoBehaviour
         selectedPrefab = prefab;
         prefab.transform.position = Camera.main.transform.position + Camera.main.transform.forward * distance;
         prefab.SetActive(true);
+
+        //debug.text = name + " == " + prefab.name + " ; pos : " + prefab.transform.position;
 
         foreach (GameObject go in spawnedPrefabs.Values)
         {

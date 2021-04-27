@@ -45,3 +45,23 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: stpatrickhat
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5741734367765838658
+      m_GuidHigh: 6470595598004343722
+    m_SerializedTextureGuid:
+      m_GuidLow: 1460477379769598158
+      m_GuidHigh: 1568174520421715785
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: CowboyHat_OBJ
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4895996946088640855
+      m_GuidHigh: 574119579050872489
+    m_SerializedTextureGuid:
+      m_GuidLow: 9278640341694344961
+      m_GuidHigh: 5025680500192958891
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: pair_earrings
+    m_Texture: {fileID: 0}

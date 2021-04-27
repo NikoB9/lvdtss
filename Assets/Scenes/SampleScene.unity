@@ -702,7 +702,7 @@ MonoBehaviour:
   listOfObjects:
   - {fileID: 1918184682637980274, guid: 45a0557152e5b70409c946a4b8254c53, type: 3}
   - {fileID: 5993875404478540383, guid: 35c4a7736babf3747bfb78db9162360c, type: 3}
-  - {fileID: 4917159702892204564, guid: 2d1d162941aecc848a39eea6d717591f, type: 3}
+  - {fileID: 5723764476022320450, guid: 2d1d162941aecc848a39eea6d717591f, type: 3}
   - {fileID: 6324486194452242304, guid: cd15614b14e4fda4dbb150deb358a3f9, type: 3}
   - {fileID: 7478744676899651085, guid: aa4f863adf9c5b244bc7918b860b89b6, type: 3}
   selected: 0000000000
@@ -741,9 +741,9 @@ MonoBehaviour:
   placeablePrefabs:
   - {fileID: 1918184682637980274, guid: 45a0557152e5b70409c946a4b8254c53, type: 3}
   - {fileID: 5993875404478540383, guid: 35c4a7736babf3747bfb78db9162360c, type: 3}
-  - {fileID: 4917159702892204564, guid: 2d1d162941aecc848a39eea6d717591f, type: 3}
+  - {fileID: 5723764476022320450, guid: 2d1d162941aecc848a39eea6d717591f, type: 3}
   - {fileID: 6324486194452242304, guid: cd15614b14e4fda4dbb150deb358a3f9, type: 3}
-  - {fileID: 7478744676899651085, guid: aa4f863adf9c5b244bc7918b860b89b6, type: 3}
+  - {fileID: 8177156317894940788, guid: 9fd5a20c8c97da6428f8f6ad7f8cc5ab, type: 3}
 --- !u!114 &1114040587
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1040,6 +1040,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 455105663036308409, guid: 452337dc4341a1942b5afd5eef0e5651, type: 3}
+      propertyPath: m_Name
+      value: PlaneOccluder
+      objectReference: {fileID: 0}
     - target: {fileID: 3762211271274665445, guid: 452337dc4341a1942b5afd5eef0e5651, type: 3}
       propertyPath: m_RootOrder
       value: 4
