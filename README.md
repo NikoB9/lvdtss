@@ -54,9 +54,9 @@ Pour "build" le projet suivez les liens suivant:
 
 Tony Lim est en train de mettre une version sécurisée sur le PlayStore. Le lien sera mis ici dès que le logiciel sera accepté par Google.
 
-En attendant vous pouvez le télécharger ici : ![Alt text](ressources/MCD.PNG?raw=true "schéma bd")
+En attendant vous pouvez le télécharger ici : [lvdtss.apk](https://nicolas-bourneuf.fr/lvdtss.apk)
 
 Une fois l'APK sur votre téléphone vous devrez l'installer par vous même en acceptant que l'APK ne respecte pas toutes les normes de sécurité demandées.
 
 ## Ressources
-![Catalogue des accessoires](icosVirtualMenu/catalogue.pdf "Catalogue des accessoires")
+[Catalogue des accessoires](icosVirtualMenu/catalogue.pdf "Catalogue des accessoires")
