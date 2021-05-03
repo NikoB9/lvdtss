@@ -31,7 +31,8 @@ Ce projet a été réalisé par Tony Lim, Salomé Rivoallanou-Drevet , Chloé Xa
 
 ## Démo
 
-À venir
+[![Alt text for your video](https://img.youtube.com/vi/SrFzd3g56aU/0.jpg)](https://www.youtube.com/watch?v=SrFzd3g56aU)
+[Lien direct](https://www.youtube.com/watch?v=SrFzd3g56aU)
 
 ***
 # Utilisation
@@ -52,11 +53,11 @@ Pour "build" le projet suivez les liens suivants:
 
 ## Téléchargement de l'APK (pour Android)
 
-Tony Lim est en train de mettre une version sécurisée sur le PlayStore. Le lien sera mis ici dès que le logiciel sera accepté par Google.
+Tony Lim a mis une [version sécurisée](https://play.google.com/store/apps/details?id=com.LeVisageDansTouteSaSplendeur.lvdtss) sur le PlayStore : [https://play.google.com/store/apps/details?id=com.LeVisageDansTouteSaSplendeur.lvdtss](https://play.google.com/store/apps/details?id=com.LeVisageDansTouteSaSplendeur.lvdtss)
 
-En attendant, vous pouvez le télécharger ici : [lvdtss.apk](https://nicolas-bourneuf.fr/lvdtss.apk)
+Vous pouvez le télécharger ici de manière non sécurisée : [lvdtss.apk](https://nicolas-bourneuf.fr/lvdtss.apk)
 
-Une fois l'APK sur votre téléphone vous devrez l'installer par vous-même en acceptant que l'APK ne respecte pas toutes les normes de sécurité demandées.
+Si vous choisissez de télécharger la version non sécurisé ce sera plus compliqué de l'installer qu'avec le PlayStore. Une fois l'APK sur votre téléphone vous devrez l'installer par vous-même en acceptant que l'APK ne respecte pas toutes les normes de sécurité demandées.
 
 ## Ressources
 [Catalogue des accessoires](icosVirtualMenu/catalogue.pdf "Catalogue des accessoires")
