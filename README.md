@@ -31,7 +31,7 @@ Ce projet a été réalisé par Tony Lim, Salomé Rivoallanou-Drevet , Chloé Xa
 
 ## [Démo](https://www.youtube.com/watch?v=SrFzd3g56aU)
 
-[![Alt text for your video](https://img.youtube.com/vi/SrFzd3g56aU/0.jpg)](https://www.youtube.com/watch?v=SrFzd3g56aU)
+[![Démo LVDTSS](demolvdtss.gif)](https://www.youtube.com/watch?v=SrFzd3g56aU)
 
 ***
 # Utilisation
