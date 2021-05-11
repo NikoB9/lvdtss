@@ -23,13 +23,6 @@ Les objets sont cumulables. Cela peut rendre la visualisation absurde ou merveil
 
 Ce projet a été réalisé par Tony Lim, Salomé Rivoallanou-Drevet , Chloé Xaintray et moi-même, Nicolas Bourneuf.
 
-### Rapports
-
--  [Bourneuf Nicolas](Rapports/Rapport%20Nicolas%20Bourneuf.pdf)
--  [Lim Tony](Rapports/Rapport_TonyLim.pdf)
--  [Rivoallanou-Drevet Salomé](Rapports/Rapport%20Salomé%20Rivoallanou-Drevet.pdf)
--  [Xaintray Chloé](Rapports/Rapport_ChloéXaintray.pdf)
-
 ## Évolutions possibles
 
 1. Positionnement au toucher sur le visage
@@ -68,3 +61,9 @@ Si vous choisissez de télécharger la version non sécurisé ce sera plus compl
 ## Ressources
 [Catalogue des accessoires](icosVirtualMenu/catalogue.pdf "Catalogue des accessoires")
 
+### Rapports
+
+-  [Bourneuf Nicolas](Rapports/Rapport%20Nicolas%20Bourneuf.pdf)
+-  [Lim Tony](Rapports/Rapport_TonyLim.pdf)
+-  [Rivoallanou-Drevet Salomé](Rapports/Rapport%20Salomé%20Rivoallanou-Drevet.pdf)
+-  [Xaintray Chloé](Rapports/Rapport_ChloéXaintray.pdf)
